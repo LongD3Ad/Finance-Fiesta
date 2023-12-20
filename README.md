@@ -3,7 +3,7 @@ FINANCE FIESTA
 
 Finance Fiesta is an innovative mobile application meticulously designed to serve as a comprehensive educational resource for understanding the intricacies of finance and banking. Intuitive and user-friendly, this app is the perfect companion for individuals seeking to expand their financial literacy, covering a vast array of topics from account creation to the nuances of various banking products and services.
 
-Key Features:
+**Key Features:**
 Educational Content: Users have access to a rich library of information addressing core financial concepts, banking procedures, card usage, and more.
 Smart AI Chatbot: At the heart of Finance Fiesta is a conversational AI chatbot, developed with Python, that engages users in real-time, facilitating instant support and guidance on financial queries.
 User-Centric Design: The application boasts a sleek and modern interface, crafted in Figma to ensure a seamless and engaging user experience.
