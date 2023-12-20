@@ -1,4 +1,6 @@
-<h6>Finance Fiesta</h6>
+FINANCE FIESTA
+==================
+
 Finance Fiesta is an innovative mobile application meticulously designed to serve as a comprehensive educational resource for understanding the intricacies of finance and banking. Intuitive and user-friendly, this app is the perfect companion for individuals seeking to expand their financial literacy, covering a vast array of topics from account creation to the nuances of various banking products and services.
 
 Key Features:
