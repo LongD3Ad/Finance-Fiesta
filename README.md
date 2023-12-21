@@ -11,3 +11,8 @@ Finance Fiesta is an innovative mobile application meticulously designed to serv
 - **Cross-Platform Compatibility**: Built using Flutter Flow, Finance Fiesta ensures a consistent and responsive performance across all devices, making financial education accessible anytime, anywhere.
 - Finance Fiesta democratizes financial education, empowering users with the knowledge to make informed decisions and fostering financial independence. The app's commitment to user empowerment through education and its cutting-edge AI support system amalgamate to create an essential tool in the arsenal of anyone looking to navigate the financial world with confidence.
 
+### Finance_advisor
+The "Finance_advisor" directory contains the modified code and database for the chatbot.
+
+### Finance advisory GUI
+The "Finance advisory GUI" directory holds the new modified code as well as the graphical user interface (GUI) for the chatbot.
